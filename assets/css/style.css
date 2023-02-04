@@ -1013,6 +1013,10 @@ textarea::placeholder {
     margin-bottom: 3rem;
   }
 
+  .home_container {
+    min-width: auto;
+  }
+
   .images-desktop {
     display: initial;
   }
