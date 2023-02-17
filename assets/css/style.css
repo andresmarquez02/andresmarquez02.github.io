@@ -16,19 +16,6 @@
 }
 
 :root {
-    --first-color: #3475dd;
-    /* colores light mode */
-    --second-color: #3b3f44;
-    --three-color: #fff;
-    --container-color: #fff;
-    --for-color: #fdfdfd;
-    --five-color: #0a1117;
-    --name-opacity: #e0e3ea;
-    --shadow-tecnologi: #25252514;
-    --first-color-img-work: #0a1117fb;
-    --second-color-img-work: #081117f8;
-    --text-color-img-work: white;
-    --border-input: #e4e8ec;
     /* colores dark mode */
     /*--second-color: #ffffff;
     --three-color: #0a1017;
@@ -41,6 +28,19 @@
     --second-color-img-work: #a4afb7;
     --text-color-img-work: #0a1117;
     --border-input: #282e35;*/
+    --first-color: #3475dd;
+    /* colores light mode */
+    --second-color: #3b3f44;
+    --three-color: #fff;
+    --container-color: #fff;
+    --for-color: #fafafa;
+    --five-color: #0a1117;
+    --name-opacity: #e0e3ea;
+    --shadow-tecnologi: #25252514;
+    --first-color-img-work: #0a1117fb;
+    --second-color-img-work: #081117f8;
+    --text-color-img-work: white;
+    --border-input: #e4e8ec;
     --text-white: #fff;
     --shadow-color: rgba(44, 43, 53, 0.493);
     --shadow-color-2: black;
@@ -1381,8 +1381,23 @@ input:checked+.slider:before {
     height: 100vh;
     justify-content: center;
     align-items: center;
-    z-index: 1020;
+    z-index: 1040;
     position: fixed;
     background-color: var(--text-color-img-work);
     top: 0;
+}
+
+.button_whatsapp_container {
+    position: fixed;
+    bottom: 1.7rem;
+    right: 2rem;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(37, 211, 75);
+    color: white;
+    width: 3.5rem;
+    height: 3.5rem;
+    z-index: 1020;
 }

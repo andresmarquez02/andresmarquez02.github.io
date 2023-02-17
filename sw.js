@@ -1,6 +1,6 @@
 const CACHE_NAME = 'Andres-v2',
     urlsToCache = [
-        'index.html',
+        // 'index.html',
         'assets/images/portfolio.png',
         'assets/images/andres_icon.png',
         'assets/css/style.css',

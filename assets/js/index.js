@@ -3,6 +3,8 @@ let logo = document.querySelector("#logo");
 let bars = document.querySelector(".bars");
 let backdrop = document.querySelector(".backdrop__bar");
 
+
+document.querySelector("body").style.overflowY = "hidden";
 document.addEventListener("Load", function() {
     document.getElementById("preload").style.display = "flex";
     document.querySelector("body").style.overflowY = "hidden";
@@ -240,7 +242,7 @@ let light = (i) => {
     let colors = [
         "#3b3f44",
         "#fff",
-        "#fdfdfd",
+        "#fafafa",
         "#0a1117",
         "#e0e3ea",
         "#1e3c4e14",
@@ -277,5 +279,5 @@ if ("serviceWorker" in navigator) {
         .catch((err) => console.warn("Error al tratar de registrar el sw", err));
 }
 // window.oncontextmenu = function() {
-// 	return false;
+//     return false;
 // }
