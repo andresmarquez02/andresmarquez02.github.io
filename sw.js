@@ -1,4 +1,4 @@
-const CACHE_NAME = 'Andres-v2',
+const CACHE_NAME = 'Andres-v2.1',
     urlsToCache = [
         'index.html',
         'assets/images/Portafolio.png',

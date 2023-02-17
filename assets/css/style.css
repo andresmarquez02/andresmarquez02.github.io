@@ -319,7 +319,7 @@ textarea::placeholder {
         position: fixed;
         top: var(--header-height);
         right: -100%;
-        width: 80%;
+        width: 67%;
         height: 100%;
         padding: 2rem;
         background-color: var(--three-color);
@@ -466,6 +466,16 @@ textarea::placeholder {
     min-width: 100%;
 }
 
+@media (max-width: 769px) {
+    .home_container {
+        margin: 0;
+    }
+    .img_profile {
+        height: 27rem;
+        width: 80%;
+    }
+}
+
 .images-desktop {
     display: none;
 }
@@ -504,7 +514,6 @@ textarea::placeholder {
 }
 
 .img_profile {
-    width: 56%;
     object-fit: cover;
     object-position: top;
     opacity: 0.8;
