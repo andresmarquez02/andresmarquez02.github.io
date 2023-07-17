@@ -786,6 +786,7 @@ textarea::placeholder {
     margin-bottom: 0.45rem;
     margin-right: 0.25rem;
     background-color: rgb(8, 13, 26);
+    font-size: 12px;
 }
 
 .footer-work {
