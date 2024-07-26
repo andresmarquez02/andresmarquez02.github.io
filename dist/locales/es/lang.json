@@ -1,0 +1,37 @@
+{
+  "experience": "Experiencia",
+  "projects": "Proyecto",
+  "about": "Sobre",
+  "contact": "Contacto",
+  
+  "availability": "Disponible para trabajar",
+  "hi": " Hola, soy Andres Marquez",
+  "text1": "+3 años de experiencia.",
+  "text2": "Desarrollador Web Fullstack",
+  "text3": "De Caracas, Venezuela",
+  "text4": "Especializado en Laravel/Vue",
+  "contact_me": "Contáctame",
+
+  "title_exp": "Experiencia Laboral",
+  "date_exp1": "Diciembre 2022- Julio 2023",
+  "title_exp1": "Developer Fullstack - Vulister",
+  "description_exp1": "Logre mejoras significativamente el frontend, aumentando el rendimiento del sistema en un 80% y mejorando la experiencia del usuario. Colaboré en la reestructuración de la base de datos aumentando su escalabilidad y mantenimiento. Desarrollé el 90% de las funciones para usuarios y administradores. Además, creé más de 14 sitios web interactivos para clientes de la empresa.",
+  "date_exp2": "Abril 2021 - Noviembre 2022",
+  "title_exp2": "Developer Fullstack - Monchis Mercado",
+  "description_exp2": "Encargado de diseñar las interacciones, la base de datos y los requisitos esenciales para el desarrollo y funcionamiento del sistema, logré crear un sitio usable y seguro que brinda una experiencia óptima a los usuarios. Automatizando procesos internos, cumplí con los objetivos de la empresa, mejorando su rendimiento y garantizando un crecimiento tecnológico.",
+  "date_exp3": "Julio 2020 - Febrero 2021",
+  "title_exp3": "Developer Fullstack - Multiparadise",
+  "description_exp3": "Implementé mejoras significativas en las interfaces, logrando un aumento del 85% en el rendimiento de la aplicación. Detecté, reestructuré y solucioné diversos errores y funcionalidades que impactaban en la lógica del sistema. Además, integre métodos de pago para las suscripciones de los usuarios y diseñé nuevos módulos vinculados al rol de administrador.",
+  
+  "title_projects": "Proyectos",
+  "description_project1": "Clon de WhatsApp que utiliza autenticación a través de Google para permitir a los usuarios chatear entre sí.",
+  "description_project2": "Tienda en línea con servicio de entrega a domicilio, simulación de lotes de productos utilizando la API de Pexels y almacenamiento en LocalStorage para el carrito de compras.",
+  "description_project3": "Plataforma inspirada en Yahoo y Stack Overflow que permite a los usuarios realizar preguntas y buscar opiniones sobre un tema específico.",
+  "code": "Ver código",
+  "view": "Ir al sitio",
+  "about_title": "Sobre mi",
+  "about_me": "Hola. Soy Andrés Márquez 🤓 desarrollador fullstack con amplia y comprobable experiencia en el uso de diversas tecnología como Laravel, Vue y React, apasionado del desarrollo web que disfruta cada momento que pasa desarrollando software de alta calidad y eficiencia. Para mí, no hay nada mejor que escuchar mi música 🎶 favorita mientras trabajo en proyectos informaticos de alta complejidad. Siempre orientado a la búsqueda constante de aprender nuevas tecnologías que me permitan mejorar mis habilidades como 📈 programador para así ofrecer soluciones innovadoras y de alta calidad a mis clientes y usuarios. Si buscas actualmente un desarrollador apasionado, componente, responsable y alta mente eficaz no dudes ni un segundo en contactarme. ¡Siempre listo para llevar tus proyectos al siguiente nivel! 💼💻",
+  "spanish": "Español",
+  "english": "Ingles",
+  "change_theme": "Cambiar Tema"
+}

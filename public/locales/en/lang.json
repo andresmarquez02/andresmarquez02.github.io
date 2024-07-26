@@ -1,0 +1,37 @@
+{
+  "experience": "Experience",
+  "projects": "Projects",
+  "about": "About Me",
+  "contact": "Contact",
+
+  "availability": "Available to work",
+  "hi": "Hi, I'm Andres Marquez",
+  "text1": "+3 years of experience.",
+  "text2": "Fullstack Web Developer",
+  "text3": "From Caracas, Venezuela",
+  "text4": "Specialized in Laravel/Vue",
+  "contact_me": "Contact me",
+
+  "title_exp": "Work Experience",
+  "date_exp1": "December 2022- July 2023",
+  "title_exp1": "Developer Fullstack - Vulister",
+  "description_exp1": "Achieve significant frontend improvements, increasing system performance by 80% and improving user experience. I collaborated in the restructuring of the database, increasing its scalability and maintenance. Developed 90% of the functions for users and administrators. Additionally, I created more than 14 interactive websites for the company's clients.",
+  "date_exp2": "April 2021 - November 2022",
+  "title_exp2": "Developer Fullstack - Monchis Mercado",
+  "description_exp2": "In charge of designing the interactions, the database and the essential requirements for the development and operation of the system, I managed to create a usable and secure site that provides an optimal experience to users. By automating internal processes, I met the company's objectives, improving its performance and guaranteeing technological growth.",
+  "date_exp3": "July 2020 - February 2021",
+  "title_exp3": "Developer Fullstack - Multiparadise",
+  "description_exp3": "I implemented significant improvements to the interfaces, achieving an 85% increase in application performance. I detected, restructured and fixed various errors and functionalities that impacted the system logic. Additionally, I integrated payment methods for user subscriptions and designed new modules linked to the administrator role.",
+
+  "title_projects": "Projects",
+  "description_project1": "WhatsApp clone that uses authentication through Google to allow users to chat with each other.",
+  "description_project2": "Online store with home delivery service, simulation of product batches using the Pexels API and storage in LocalStorage for the shopping cart.",
+  "description_project3": "Platform inspired by Yahoo and Stack Overflow that allows users to ask questions and seek opinions on a specific topic.",
+  "code": "Code",
+  "view": "Preview",
+  "about_title": "About",
+  "about_me": "Hi, I'm Andrés Márquez 🤓 fullstack developer with extensive and proven experience in the use of various technologies such as Laravel, Vue and React, passionate about web development that enjoys every moment spent developing high quality and efficient software. For me, there is nothing better than listening to my favorite music 🎶 while working on highly complex software projects. Always oriented to the constant search of learning new technologies that allow me to improve my skills as a 📈 programmer in order to offer innovative and high quality solutions to my clients and users. If you are currently looking for a passionate developer, component, responsible and highly efficient do not hesitate for a second to contact me, always ready to take your projects to the next level! 💼💻",
+  "spanish": "Spanish",
+  "english": "English",
+  "change_theme": "Change Theme"
+}
