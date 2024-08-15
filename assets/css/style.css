@@ -1429,10 +1429,10 @@ input:checked+.slider:before {
 }  
 
 .modal-content {  
-    background-color: #fff;  
+    background-color: var(--container-color);  
     margin: 15% auto; /* Espacio desde arriba y centrado */  
-    padding: 20px;  
-    border: 1px solid #888;  
+    padding: 25px;  
+    /* border: 1px solid #888;   */
     width: 80%; /* Ancho de la ventana modal */  
     max-width: 400px; /* Ancho máximo */  
     border-radius: 1.5rem;
