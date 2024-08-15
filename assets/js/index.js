@@ -9,7 +9,7 @@ document.addEventListener("Load", function() {
     document.getElementById("preload").style.display = "flex";
     document.querySelector("body").style.overflowY = "hidden";
 });
-document.querySelector("body").style.overflowY = "auto";
+// document.querySelector("body").style.overflowY = "auto";
 document.getElementById("preload").style.display = "none";
 
 window.onscroll = function() {

@@ -111,13 +111,13 @@ body {
     font-family: "Inter", sans-serif;
     font-size: var(--normal-font-size);
     color: var(--second-color);
-    overflow-x: hidden;
     line-height: 1.4;
     transition: all 0.5s ease-in-out;
     background-color: var(--three-color);
+    overflow: hidden;
 }
 
-::-webkit-scrollbar {
+/* ::-webkit-scrollbar {
     background-color: transparent;
     width: 10px;
 }
@@ -133,7 +133,7 @@ body {
 
 ::-webkit-scrollbar-track {
     background-color: #f2f2f200;
-}
+} */
 
 h1,
 h2,
@@ -1415,3 +1415,30 @@ input:checked+.slider:before {
     height: 3.5rem;
     z-index: 1020;
 }
+
+.modal {  
+    display: block; /* Ocultar modal por defecto */  
+    position: fixed; /* Mantenerlo en el mismo lugar */  
+    z-index: 3000; /* Asegurarse de que esté por encima de otros elementos */  
+    left: 0;  
+    top: 0;  
+    width: 100%; /* Ancho total */  
+    height: 100%; /* Altura total */  
+    overflow: hidden; /* Habilitar desplazamiento si es necesario */  
+    background-color: rgba(0, 0, 0, 0.7); /* Fondo negro con opacidad */  
+}  
+
+.modal-content {  
+    background-color: #fff;  
+    margin: 15% auto; /* Espacio desde arriba y centrado */  
+    padding: 20px;  
+    border: 1px solid #888;  
+    width: 80%; /* Ancho de la ventana modal */  
+    max-width: 400px; /* Ancho máximo */  
+    border-radius: 1.5rem;
+    padding-bottom: 30px;
+}  
+.title-modal{
+    margin-bottom: 1rem;
+}
+
